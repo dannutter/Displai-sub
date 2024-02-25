@@ -1,0 +1,3 @@
+C:\Users\dannu\Desktop\Dizplai\Dizplai Server\Dizplai-server\obj\Debug\Dizplai Server.njsproj.AssemblyReference.cache
+C:\Users\dannu\Desktop\Dizplai\Dizplai Server\Dizplai-server\obj\Debug\Dizplai Server.njsproj.CoreCompileInputs.cache
+C:\Users\dannu\Desktop\Dizplai\Dizplai Server\Dizplai-server\bin\Microsoft.NodejsTools.WebRole.dll
